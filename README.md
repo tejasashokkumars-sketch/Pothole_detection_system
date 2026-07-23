@@ -94,8 +94,11 @@ The following components were used in the development of the Smart Pothole Detec
 The images below show the hardware prototype of the Smart Pothole Detection System.
 
 ### Project Prototype
+Protype image--<img width="960" height="1280" alt="prototype" src="https://github.com/user-attachments/assets/d785bee0-420e-4f6d-ab97-683e4176c42f" />
 
-![Project Prototype]([prototype.jpg.zip](https://github.com/user-attachments/files/30311633/prototype.jpg.zip)
+components used--<img width="1200" height="1600" alt="components" src="https://github.com/user-attachments/assets/6d28da2c-c3cd-4be6-8daa-e63a1037ef10" />
+
+
 
 
 
