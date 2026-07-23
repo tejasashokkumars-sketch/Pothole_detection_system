@@ -126,7 +126,7 @@ Project Video Link:https://drive.google.com/file/d/1mQLgu-V6XVimH6-0duFn2Any-Awl
 - Arduino Source Code (.ino file)
 - Project Documentation (README.md)
 - Prototype Images
-- Circuit Diagram (Optional)
+- Circuit Diagram 
 - Project Demonstration Video Link
 
 ---
