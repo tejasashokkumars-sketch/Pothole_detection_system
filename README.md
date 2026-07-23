@@ -95,7 +95,8 @@ The images below show the hardware prototype of the Smart Pothole Detection Syst
 
 ### Project Prototype
 
-![Project Prototype](
+![Project Prototype]([prototype.jpg.zip](https://github.com/user-attachments/files/30311633/prototype.jpg.zip)
+
 
 
 ## Project Demonstration Video
